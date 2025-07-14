@@ -1,0 +1,19 @@
+﻿
+p {
+    font-size: 50px;
+    font-family: Arial;
+    color: orange;
+}
+
+#myid {
+    background-color: red;
+}
+
+#newid {
+    background-color: green;
+}
+
+.myclass {
+    background-color: yellow;
+}
+

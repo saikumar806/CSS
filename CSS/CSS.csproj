@@ -68,6 +68,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Cascading.html" />
+    <Content Include="CSS\Cscading.css" />
+    <Content Include="CSS\Login.css" />
+    <Content Include="CSS\Site.css" />
+    <Content Include="HtmlPage1.html" />
     <Content Include="Login.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>

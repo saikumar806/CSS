@@ -5,27 +5,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-    <style type="text/css">
-        .auto-style1 {
-            width: 21%;
-            height: 9px;
-        }
-       #one
-       {
-           background-color:red;
-       }
-       #second
-       {
-           background-color:green;
-       }
-       .third
-       {
-           background-color:yellow;
-       }
-    </style>
-
+<link rel="stylesheet" href="CSS/Login.css" />
+    <link href="CSS/Site.css" rel="stylesheet" />
 </head>
-<body style="background-color:aqua">
+<body >
     <form id="form1" runat="server">
         <div>
 
